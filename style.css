@@ -138,6 +138,10 @@ body{
     .container-wrapper{
         width: 90%;
     }
+
+    .group{
+        width: 50%;
+    }
 }
 
 @media (max-width: 650px){
@@ -147,6 +151,10 @@ body{
 
     .instagram-phone{
         display: none;
+    }
+
+    .group{
+        width: 50%;
     }
 
     .instagram-continue{
